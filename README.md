@@ -1,1 +1,1 @@
-# Sokoban
+# Seam Carver
